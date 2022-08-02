@@ -1,9 +1,4 @@
-# Joshua Langner
-
-### Spencer, Iowa USA
-
-![keysbkg](https://user-images.githubusercontent.com/107937483/182451701-4e9b7f33-7a0f-460f-a17d-f2dd151c3a8d.jpeg)
-
+![JOSHUA LANGNER](https://user-images.githubusercontent.com/107937483/182462734-9a7026ff-4799-4110-bce2-02ba4314d89c.png)
 
 ![](Images/keysbkg.jpeg)
 
