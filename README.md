@@ -5,7 +5,7 @@
 
 - ⚙️ I’m currently working on **Portfolio Reboot**
 
-- 🌱 I’m currently learning **UI Design Principles & React Native**
+- 🌱 I’m currently learning **UI Design Principles & TypeScript**
 
 - 💻 All of my projects are available at [https://joshua.langner.com](https://joshua.langner.com)
 
