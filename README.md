@@ -3,17 +3,17 @@
 <h1 align="center">Hello, I'm Joshua Langner</h1>
 <h3 align="center">Software Engineer with a passion for solving complex problems with beautiful, accessible, responsive applications for the web. I thrive in diverse collaborative cultures where continuous improvement, creativity, and curiosity are a driving force.</h3>
 
-- ⚙️ I’m currently working on **Portfolio Reboot**
+- ⚙️ I’m currently working on **Freelance Website (Using the PERN Stack)**
 
 - 🌱 I’m currently learning **UI Design Principles & TypeScript**
 
-- 💻 All of my projects are available at [https://joshua.langner.com](https://joshua.langner.com)
+- 💻 Many of my projects are available at [https://joshua.langner.com](https://www.joshua.langner.com)
 
 - 📧 Connect with me: **josh.langner@gmail.com**
 
-- 💡 Learn about me: [My Resume](https://docs.google.com/document/d/1pbXvt9ZcMsX7BV4R3lbsnVqt_Fr8eA4BYNhkcj_Bpbs/edit?usp=sharing)
+- 💡 Take a look at my Resume: (https://drive.google.com/file/d/1rZM1zHa8IwZTmeqkYm2KmXC0g_SKrvEg/view?usp=share_link)
 
-- 🎭 Fun fact **I am also a playwright and a stage actor**
+- 🎭 Fun fact **I am also a playwright and stage actor**
 
 <h3 align="left">More ways to connect:</h3>
 <p align="left">
