@@ -1,17 +1,18 @@
 ![LinkedinCover](https://user-images.githubusercontent.com/107937483/225999262-0dac98d2-636b-4d21-ad9f-36dfb7f7bc6f.png)
 
-<h1 align="center">Hello, I'm Joshua Langner</h1>
-<h3 align="center">Software Engineer with a passion for solving complex problems with beautiful, accessible, responsive applications for the web. I thrive in diverse collaborative cultures where continuous improvement, creativity, and curiosity are a driving force.</h3>
+<h1 align="left">Hello, I'm Joshua Langner</h1>
+<h2 align="left">Software Engineer | MERN and PERN Stack></h2>
+<h3 align="left">Software Engineer with a passion for solving complex problems with beautiful, accessible, responsive applications for the web. I thrive in diverse collaborative cultures where continuous improvement, creativity, and curiosity are a driving force.</h3>
 
-- ⚙️ I’m currently working on **Freelance Website (Using the PERN Stack)**
+- ⚙️ I’m currently working on **CONTRACT WEB DEVELOPMENT**
 
-- 🌱 I’m currently learning **UI Design Principles & TypeScript**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 💻 Many of my projects are available at [https://joshua.langner.com](https://www.joshua.langner.com)
 
 - 📧 Connect with me: **josh.langner@gmail.com**
 
-- 💡 Take a look at my Resume: (https://drive.google.com/file/d/1rZM1zHa8IwZTmeqkYm2KmXC0g_SKrvEg/view?usp=share_link)
+- 💡 Take a look at my Resume: (https://docs.google.com/document/d/11C2qaFNdGONL-lHx5Tu7SCo1X-baUE4YboAxMH1mDbc/edit?usp=sharing)
 
 - 🎭 Fun fact **I am also a playwright and stage actor**
 
