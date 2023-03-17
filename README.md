@@ -1,4 +1,4 @@
-![githubbanner](https://user-images.githubusercontent.com/107937483/195943778-e5528e2e-bb65-4bcf-9afb-8cd9bff20227.png)
+![LinkedinCover](https://user-images.githubusercontent.com/107937483/225999262-0dac98d2-636b-4d21-ad9f-36dfb7f7bc6f.png)
 
 <h1 align="center">Hello, I'm Joshua Langner</h1>
 <h3 align="center">Software Engineer with a passion for solving complex problems with beautiful, accessible, responsive applications for the web. I thrive in diverse collaborative cultures where continuous improvement, creativity, and curiosity are a driving force.</h3>
