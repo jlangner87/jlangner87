@@ -8,9 +8,8 @@
 ### About Me:
 - I’m currently working as a: *Contract Web Developer*
 - I’m currently learning: *Ruby on Rails*
-
-- 
-- Fun fact **I am also a playwright and stage actor**
+- My background: *Mobile Electronics and Wireless Tech*
+- Fun fact *I am also a playwright and stage actor*
 
 ### Connect With Me:
 - Email: joshua.langner.dev@gmail.com
