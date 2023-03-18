@@ -1,4 +1,4 @@
-![LinkedinCover](https://user-images.githubusercontent.com/107937483/225999262-0dac98d2-636b-4d21-ad9f-36dfb7f7bc6f.png)
+![linkedin-banner](https://user-images.githubusercontent.com/107937483/226122581-5bc40a36-97bc-4d37-80ba-51faf05976bd.png)
 
 # Hello, I'm Joshua Langner
 ## Software Engineer | Ruby-Rails-React & PERN Stacks
