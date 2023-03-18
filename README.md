@@ -1,7 +1,7 @@
 ![linkedin-banner](https://user-images.githubusercontent.com/107937483/226122581-5bc40a36-97bc-4d37-80ba-51faf05976bd.png)
 
 # Hello, I'm Joshua Langner
-## Software Engineer | Ruby-Rails-React & PERN Stacks
+## Software Engineer | Ruby on Rails & PERN Stack
 
 #### Software Engineer with a passion for solving complex problems with beautiful, accessible, responsive applications for the web. I thrive in diverse collaborative cultures where continuous improvement, creativity, and curiosity are a driving force.
 
